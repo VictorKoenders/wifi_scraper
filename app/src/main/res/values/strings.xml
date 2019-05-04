@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wifi Scraper</string>
+    <string name="button_start_recording">Start recording</string>
+    <string name="button_end_recording">End recording</string>
+    <string name="gps_network_not_enabled">GPS not enabled</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="wifi_not_enabled">Wifi is not enabled</string>
+    <string name="open_wifi_settings">Open WiFi settings</string>
+</resources>
